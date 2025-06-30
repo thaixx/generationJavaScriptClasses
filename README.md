@@ -1,7 +1,7 @@
 
 # Generation JavaScript Classes
 
-Este repositório contém exemplos e exercícios desenvolvidos durante as aulas de JavaScript da Generation Brasil. O foco está em treinar a lógica de programação utilizando JavaScript puro, incluindo conceitos como estruturas de repetição, condicionais, arrays, objetos e funções.
+Este repositório contém exemplos e exercícios desenvolvidos durante as aulas de JavaScript da Generation Brasil. 
 
 ## Pré-requisitos
 
